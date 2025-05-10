@@ -1,0 +1,5 @@
+﻿  SDLAB3.cpp
+C:\Users\relik\source\repos\SDLAB3\SDLAB3\SDLAB3.cpp(43,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\relik\source\repos\SDLAB3\SDLAB3\SDLAB3.cpp(95,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\relik\source\repos\SDLAB3\SDLAB3\SDLAB3.cpp(110,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  SDLAB3.vcxproj -> C:\Users\relik\source\repos\SDLAB3\x64\Debug\SDLAB3.exe
